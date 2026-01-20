@@ -166,3 +166,95 @@ Recall measures how many actual positive cases (cancer) are correctly identified
 Model development encompasses both training the model and evaluating its performance before it is deployed for predictions.
 
 ---
+# Vertex AI & Gen AI Quiz: Answers and Explanations
+
+## 1. Call Center AI Solution
+
+**Question:**  
+You run a call center that handles customer questions from multiple channels, such as email, phone calls, and chat. You want to improve customer satisfaction and agent efficiency by using AI to automate routine requests, help agents with complex tasks and discover insights. Which AI solution on Google Cloud should you choose?
+
+**Correct Answer:** Contact Center AI
+
+**Explanation:**  
+Contact Center AI is designed for multi-channel customer support. It automates routine requests, assists agents with complex tasks, and provides actionable insights, making it the best fit for improving both customer satisfaction and agent efficiency in a call center environment.
+
+---
+
+## 2. How Generative AI Generates Content
+
+**Question:**  
+How does generative AI generate new content?
+
+**Correct Answer:**  
+It learns from a massive amount of existing content and can then be used to solve general problems or be further tuned to solve specific problems.
+
+**Explanation:**  
+Generative AI models are trained on large datasets, learning patterns and structures from existing content. This allows them to generate new, relevant content and be further fine-tuned for specialized tasks.
+
+---
+
+## 3. Definition of a Prompt
+
+**Question:**  
+What is a prompt?
+
+**Correct Answer:**  
+A prompt is the natural language request or instruction to guide a model to generate a desired output.
+
+**Explanation:**  
+In generative AI, a prompt is the input (usually in natural language) that tells the model what you want it to do, such as answering a question, summarizing text, or generating creative content.
+
+---
+
+## 4. Few-Shot Prompting
+
+**Question:**  
+Which of the following is a type of prompt that allows a large language model to perform a task with only a small number of examples?
+
+**Correct Answer:** Few-shot prompt
+
+**Explanation:**  
+Few-shot prompting involves providing the model with a few examples of the task you want it to perform. This helps the model understand the context and desired output, even with limited examples.
+
+---
+
+## 5. Increasing Creativity in Model Output
+
+**Question:**  
+Which of the following is the best way to generate more creative or unexpected content by adjusting the model parameters in Generative AI Studio?
+
+**Correct Answer:** Set the temperature to a high value.
+
+**Explanation:**  
+The temperature parameter controls the randomness of the model’s output. A higher temperature increases creativity and the likelihood of unexpected responses, while a lower temperature makes the output more predictable.
+
+---
+
+## 6. Vertex AI Studio Purpose
+
+**Question:**  
+What is Vertex AI Studio?
+
+**Correct Answer:**  
+A tool that lets you quickly test and customize generative AI models so you can leverage their capabilities in your applications.
+
+**Explanation:**  
+Vertex AI Studio is a Google Cloud platform tool that allows users to experiment with, customize, and deploy generative AI models, making it accessible for rapid prototyping and integration into applications.
+
+---
+
+## 7. Categories of Google Cloud AI Solutions
+
+**Question:**  
+What are the two categories of AI solutions provided by Google Cloud?
+
+**Correct Answer:**  
+Vertical solutions, which focus on specific industries, and horizontal solutions, which solve problems across industries
+
+**Explanation:**  
+Google Cloud offers vertical AI solutions tailored to industry-specific needs (like healthcare or retail) and horizontal solutions that address common challenges across multiple industries (like document processing or customer support).
+
+---
+
+*Use this file for quick revision before your exam or hands-on lab!*
+
